@@ -18,6 +18,7 @@ Public health and policy
 
 
 Category of stress level using emotion detection:
+
 Low Stress Levels :
 Happy
 Neutral
