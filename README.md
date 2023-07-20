@@ -1,4 +1,10 @@
-Stress-Emotion-detection-SAARTHI
+#Stress-Emotion-detection-SAARTHI
+
+### download FER2013 dataset
+- from below link and put in data folder under your project directory
+- https://www.kaggle.com/msambare/fer2013
+
+### All the Packages need to be installed
 
 From the deep learning CNN Model the emotion detected by images dataset.
 From the emotion detection we can classify that which kind of stress the person have.
@@ -25,5 +31,5 @@ Disgusted
 Fearful
 
 BY using vGG-16 and RESNET we find the accuracy.
-download the emotion dataset.
+
 
